@@ -58,8 +58,8 @@ class HumanityProtocol:
     def display_header(self):
         header_text = """
         ===============================
-        Auto Daily Claim $RWT Humanity Protocol
-        Bot created by: https://x.com/snifftunes
+                Humanity Protocol
+        Author: https://x.com/snifftunes
         ===============================
         """
         print(Fore.CYAN + Style.BRIGHT + header_text + "\n")
